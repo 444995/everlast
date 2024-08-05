@@ -1,0 +1,9 @@
+PyQt5
+torch
+Pillow
+mss
+numpy
+opencv-python
+ultralytics
+pywin32
+keyboard
